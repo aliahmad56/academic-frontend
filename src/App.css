@@ -1,0 +1,7 @@
+/* specify the global font-family */
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins';
+}
